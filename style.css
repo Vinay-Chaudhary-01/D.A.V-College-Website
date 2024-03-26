@@ -1,0 +1,397 @@
+
+.navbar-header{
+   width: 200px;
+   color: white;
+}
+.nav {
+   text-size-adjust: 40px;
+   color: red;
+}
+.header-image{
+   padding:75px;
+   padding-left: 40%;
+  
+}
+.header-name{
+   text-align: center;
+   font-size: 40px;
+}
+#myCarousel{
+   margin-top: 20px;
+}
+.container1{ 
+  
+
+   color: black;
+   margin-top: 100px;
+   
+
+   
+}
+.xyz{
+   padding-top: 15px ;
+text-align: center;
+   color: rgb(15, 195, 255);
+
+}
+
+.press-release-and-notifications{
+  margin-left: 0px;
+   margin-top: 50px;
+  text-align: center;
+
+}
+.press-release
+{
+
+  
+  text-decoration:underline ;
+   margin-top: 50px;
+   text-align: center;
+   border: 2px solid black;
+   background-color: rgba(245, 47, 245, 0.712);
+}
+.box{
+   border: 2px solid black;
+   background-color:  rgba(88, 248, 88, 0.67);
+   overflow-x: auto;
+   height: 350px;
+}
+
+.notification1{
+   border: 2px solid black;
+}
+.notification1-heading{
+   color: blue;
+   text-decoration: solid;
+   }
+   .notification1-date{
+      text-align: end;
+      text-decoration: solid;
+      text-decoration: underline;
+      color: blue;
+   }
+   .notification2{
+      border: 2px solid black;
+   }
+   .notification2-heading{
+      color: blue;
+      text-decoration: solid;
+      }
+      .notification2-date{
+         text-align: end;
+         text-decoration: solid;
+         text-decoration: underline;
+         color: blue;
+      }
+      .notification3{
+         border: 2px solid black;
+      }
+      .notification3-heading{
+         color: blue;
+         text-decoration: solid;
+         }
+         .notification3-date{
+            text-align: end;
+            text-decoration: solid;
+            text-decoration: underline;
+            color: blue;
+         }
+         .notification4{
+            border: 2px solid black;
+         }
+         .notification4-heading{
+            color: blue;
+            text-decoration: solid;
+            }
+            .notification4-date{
+               text-align: end;
+               text-decoration: solid;
+               text-decoration: underline;
+               color: blue;
+            }
+.img1{
+   
+   margin-top: 20px;
+   height: 30px;
+}
+.img2{
+   margin-top: 20px;
+  
+   height: 300px;
+}
+.upper_buttons{
+   margin-top: 5%;
+   padding-left: 15%;
+}
+.lower_buttons{
+   margin-top: 5%;
+   padding-left: 15%;
+   padding-bottom: 5%;
+}
+.buttons_heading
+{
+  
+   padding-top: 50px;
+}
+.buttons-background{
+   background-color: rgba(63, 255, 255, 0.706);
+   margin-top: 5%;
+   height: 400px;
+}
+.inspirators{
+   margin-top: 10px;
+   color: red;
+}
+
+.inspirators-main{
+    
+   margin-left: 0%;
+   height: 450px;
+  background-color: #b5ff20bc;
+
+}
+.president-column{
+   border: 2px solid white;
+   height: 175px;
+   margin-top: 20px;
+   margin-left: 5%;
+  
+   padding-bottom: 10px;
+  background: linear-gradient(
+   45deg,
+    #f09433 0%,
+     #e66 50%, 
+     #f30707 100%
+    );
+   color: white;
+}
+.president-role{
+   text-align: end;
+   margin-bottom: 50px;
+   color :black;
+  
+ 
+}
+.principal-column{
+   border: 2px solid white;
+   height: 175px;
+   margin-top: 20px;
+   padding-top: 10px;
+  margin-left: 20%;
+   padding-bottom: 10px;
+   background:linear-gradient(
+      45deg,
+      #02f8cb 0%,
+      #0869f3 50%,
+      #a7e85d 100%
+      );
+   color: white;
+}
+.principal-name{
+   width: 550px;
+}
+.principal-role{
+   text-align: end;
+   color : black;
+}
+.secratary-column{
+   border: 2px solid white;
+   margin-left: 5%;
+  height: 175px;
+   margin-top: 20px;
+   padding-bottom: 10px;
+   background: linear-gradient(
+      45deg,
+      #00f1d1 0%,
+      #ea2aaa 50%,
+      #ffe101d0 100%
+   );
+   color: white;
+}
+.secratary-role{
+   text-align: end;
+   color : black;
+}
+.hod-column{
+   display: flex;
+   border: 2px solid white;
+   margin-left: 20%;
+    height: 175px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: linear-gradient(
+      45deg,
+      #f93e3e 0%,
+      #a6f742 50%,
+      #00ddff 100%
+    );
+    color:white;
+ }
+ .hod-role{
+   display:block;
+    text-align: end;
+    color : black;
+ }
+ .important-website{
+   padding-top: 15px;
+   text-align: center;
+
+  color: #010101;
+   margin-top: 30px;
+ }
+
+    .usefulLinksContainer {
+      display: flex;
+      justify-content: space-around;
+      background-color: #000000;
+      padding: 20px;
+     
+      border-radius: 10px;
+      margin: 20px;
+      width:100%;
+      height: 100px;
+      overflow-y: auto;
+    }
+  
+    .usefulLink {
+
+      text-align: center;
+      margin: 0 10px;
+    }
+  
+    .usefulLink a {
+      width: 250px;
+      text-decoration: none;
+      color: #ff0000;
+      font-weight: bold;
+      background-color: #ffffff; /* Background color for links */
+      padding: 20px 15px;
+      border-radius: 5px;
+      display: inline-block;
+    }
+  
+    .usefulLink a:hover {
+      text-decoration: underline;
+      background-color: #17adf3; /* Background color on hover */
+    }
+
+
+.footer{
+
+   color: white;
+   margin-left: 0%;
+   height: 500px;
+   margin-top: 150px;
+   background-color: grey;
+}
+.footer-dav-img{
+   padding-top: 50px;
+}
+.academics-heading{
+  padding-top: 40px;
+  text-decoration: underline;
+}
+.policies-heading{
+   padding-top: 40px;
+   text-decoration: underline;
+}
+.cells-heading{
+   padding-top: 40px;
+   text-decoration: underline;
+}
+.quicklinks-heading{
+   padding-top: 40px;
+   text-decoration: underline;
+}
+.media {
+   padding-top: 30px;
+   text-decoration: underline;
+}
+
+
+/* campus tour page */
+
+.campustour{
+   color: white;
+   padding-top: 10px;
+   background-color: #000000;
+   margin-top: 8%;
+
+}
+.college-life-images {
+    display: flex;
+    height: 250px;
+    width: 30%;
+    gap: 10px;
+   
+}
+.college-life-images img{
+   width: 30%;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 10px;
+   border: 2px solid black;
+   transition: all ease 0.4s;
+   cursor: pointer;
+   
+}
+.college-life-images img:hover{
+   width: 200%;
+}
+
+.student-life-images1 {
+   display: flex;
+   height: 250px;
+   width: 30%;
+   gap: 10px;
+  
+}
+.student-life-images1  img{
+  width: 30%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid black;
+  transition: all ease 0.4s;
+  cursor: pointer;
+  
+}
+.student-life-images1  img:hover{
+  width: 200%;
+}
+.student-life-images2 {
+   display: flex;
+   height: 250px;
+   width: 30%;
+   gap: 10px;
+  
+}
+.student-life-images2 img{
+  width: 30%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid black;
+  transition: all ease 0.4s;
+  cursor: pointer;
+  margin-top: 10px;
+  
+}
+.student-life-images2  img:hover{
+  width: 200%;
+}
+
+/* placement page */ 
+
+
+.placementclass{
+   margin-top: 100px;
+   text-align: center;
+}
+
+
+
+
